@@ -10,10 +10,10 @@
     "index.js",
     "src/"
   ],
-  "homepage": "https://gatekeepr.ro",
+  "homepage": "https://github.com/gtkppr/email-audit",
   "packageManager": "yarn@4.10.3",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "email",
     "email-validation",
