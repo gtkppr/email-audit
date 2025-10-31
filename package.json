@@ -1,0 +1,32 @@
+{
+  "name": "email-audit",
+  "description": "Lightweight email validation and fraud detection library.",
+  "main": "index.js",
+  "author": {
+    "name": "Gatekeepr",
+    "url": "https://gatekeepr.ro"
+  },
+  "files": [
+    "index.js",
+    "src/"
+  ],
+  "packageManager": "yarn@4.10.3",
+  "type": "module",
+  "version": "1.0.0",
+  "keywords": [
+    "email",
+    "email-validation",
+    "email-verification",
+    "email-checker",
+    "disposable-email",
+    "alias-detection",
+    "role-address",
+    "fraud-detection",
+    "spam-protection",
+    "signup-validation",
+    "anti-abuse",
+    "gatekeepr",
+    "javascript",
+    "nodejs"
+  ]
+}
