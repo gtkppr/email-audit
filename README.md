@@ -1,4 +1,4 @@
-# Email Inspector
+# Email Audit
 
 Lightweight email validation and fraud detection library.
 
