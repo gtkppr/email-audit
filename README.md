@@ -89,9 +89,9 @@ Each helper returns an array of triggered issue codes or an empty array.
 
 ## License
 
-[MIT](https://opensource.org/license/mit) © 2025 [Gatekeepr](https://gatekeepr.ro).
+[MIT](https://opensource.org/license/mit) © 2025 [Gatekeepr](https://gatekeepr.io).
 
 ## About
 
-**email-audit** is an open-source component of [Gatekeepr](https://gatekeepr.ro), a privacy-first API that blocks 
+**email-audit** is an open-source component of [Gatekeepr](https://gatekeepr.io), a privacy-first API that blocks 
 fake users and platform abuse by analyzing emails, IPs, domains, and user agents in real time.

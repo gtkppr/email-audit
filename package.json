@@ -4,7 +4,7 @@
   "main": "index.js",
   "author": {
     "name": "Gatekeepr",
-    "url": "https://gatekeepr.ro"
+    "url": "https://gatekeepr.io"
   },
   "files": [
     "index.js",
@@ -13,7 +13,7 @@
   "homepage": "https://github.com/gtkppr/email-audit",
   "packageManager": "yarn@4.10.3",
   "type": "module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [
     "email",
     "email-validation",
